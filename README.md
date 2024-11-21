@@ -43,11 +43,14 @@ This video showcases the quadrotor's motion along the hyperchaotic trajectory ge
    - If you use this repository or any part of the associated work, kindly cite the paper as follows:
 
      ```
-     @article{yourname2024hyperchaos,
-       title={Leveraging Hyperchaotic Systems for Autonomous 3D Quadrotor Surveillance},
-       author={Your Name and Co-author Names},
-       journal={arXiv preprint arXiv:2410.05215},
-       year={2024}
+     @misc{r2024pathplanningmultiquadrotor3d,
+      title={Path planning for multi-quadrotor 3D boundary surveillance using non-autonomous discrete memristor hyperchaotic system}, 
+      author={Harisankar R and Abhishek Kaushik and Sishu Shankar Muni},
+      year={2024},
+      eprint={2410.05215},
+      archivePrefix={arXiv},
+      primaryClass={nlin.CD},
+      url={https://arxiv.org/abs/2410.05215}, 
      }
      ```
 
