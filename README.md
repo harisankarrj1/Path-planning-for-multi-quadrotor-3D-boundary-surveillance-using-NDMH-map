@@ -33,7 +33,7 @@ This video showcases the quadrotor's motion along the hyperchaotic trajectory ge
 
 4. **How to Use**:
    - Ensure the PyRobotics library and its dependencies are installed before running the scripts.
-   - Navigate to the `Fig/` folder and run the desired Python script to reproduce the corresponding figure or simulation mentioned in the paper.
+   - Navigate to the `Fig/` folder and run the desired Python script to reproduce the corresponding figure or simulation mentioned in the paper.pdf in the repository.
 
 5. **Instructions**:
    - For detailed information on the theoretical background and methodology, refer to the research paper.
