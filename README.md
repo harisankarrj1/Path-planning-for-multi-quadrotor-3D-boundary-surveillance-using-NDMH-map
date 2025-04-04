@@ -8,7 +8,7 @@ This repository contains the code and simulation files associated with the resea
 "Leveraging Hyperchaotic Systems for Autonomous 3D Quadrotor Surveillance"
 
 Paper Link:
-https://arxiv.org/pdf/2410.05215
+(https://doi.org/10.1016/j.fraope.2025.100239)
 
 Contents:
 ---------
